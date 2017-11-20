@@ -424,6 +424,7 @@ DataManager.makeSavefileInfo = function() {
     info.faces      = $gameParty.facesForSavefile();
     info.playtime   = $gameSystem.playtimeText();
     info.timestamp  = Date.now();
+    info.saveString = $gameVariables.value(1);
     return info;
 };
 
