@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"expanded":true,"name":"1クイング町・酒場前","order":39,"parentId":4,"scrollX":400,"scrollY":384.5},
-{"id":2,"expanded":false,"name":"主人公設定","order":1,"parentId":0,"scrollX":408,"scrollY":384.5},
+{"id":2,"expanded":true,"name":"主人公設定","order":1,"parentId":0,"scrollX":408,"scrollY":384.5},
 {"id":3,"expanded":true,"name":"魔王城・謁見室","order":24,"parentId":21,"scrollX":411.5,"scrollY":363},
 {"id":4,"expanded":true,"name":"04クイング町（宿屋前）","order":25,"parentId":0,"scrollX":400.5,"scrollY":363},
 {"id":5,"expanded":true,"name":"05魔王城・エントランス","order":5,"parentId":21,"scrollX":416.5,"scrollY":363},
