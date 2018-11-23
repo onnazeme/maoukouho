@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"アンジェリーク","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"rival_1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"RIVAL","traits":[],"initialLevel":1,"maxLevel":99,"name":"ルイヴァ","nickname":"","note":"","profile":"もう一人の魔王候補。ライバル。純血の魔族。\n魔力が高くて男性にもモテモテのチャラ女。"},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"03_C","classId":3,"equips":[18,6,0,0,0],"faceIndex":0,"faceName":"03_0","traits":[],"initialLevel":1,"maxLevel":99,"name":"マイト","nickname":"","note":"","profile":"クイング町に住む純朴な元気少男。剣術がスキで、\n騎士団に入るのが目標。男騎士キースに憧れている。"},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"04_C","classId":4,"equips":[3,6,0,0,0],"faceIndex":0,"faceName":"04_0","traits":[],"initialLevel":1,"maxLevel":99,"name":"キース","nickname":"","note":"","profile":"巷で噂の美男騎士。兵士達の男神。非常に真面目な騎士\nだが、実は可愛い服や物がスキなど男らしい一面も持つ。"},
