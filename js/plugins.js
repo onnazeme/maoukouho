@@ -20,5 +20,6 @@ var $plugins =
 {"name":"LoopTagChecker","status":false,"description":"bgmとbgsの音楽ファイルにループタグがついているかチェックします。","parameters":{"folder":"both","display":"both"}},
 {"name":"EventDebugger","status":false,"description":"EventDebuggerPlugin","parameters":{"StepStart":"F7","StepIn":"F11","StepOver":"F10","Continue":"F6","ToggleWindow":"F12","WatchVariable":"F1","MaxWatchNum":"3","EventTest":"true","SuppressFunc":"false","OkHandler":"F11","CancelHandler":"F6","ScriptDebug":"1","DisableDebugCtrlKey":"true"}},
 {"name":"MPP_SimpleTouch2","status":false,"description":"【ver.2.1】マウスやタッチ操作を変更します。","parameters":{"Cancel Enabled?":"true","Long Press Time":"15","Double Tap Default":"0","Double Tap Name":"ダブルタップ間隔","Double Tap Status":"無効,15,30,45,60","Cursor SE Always?":"false"}},
-{"name":"ScreenResolution","status":true,"description":"Change your game's screen resolution to your liking!","parameters":{"Screen Width":"816","Screen Height":"624"}}
+{"name":"ScreenResolution","status":true,"description":"Change your game's screen resolution to your liking!","parameters":{"Screen Width":"816","Screen Height":"624"}},
+{"name":"UTA_MessageSkip","status":true,"description":"Skip message on pressing a particular key.","parameters":{"Skip Key":"control","Show Trace":"false"}}
 ];

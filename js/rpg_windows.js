@@ -1,5 +1,5 @@
 //=============================================================================
-// rpg_windows.js v1.5.1
+// rpg_windows.js v1.6.0
 //=============================================================================
 
 //-----------------------------------------------------------------------------
@@ -2857,7 +2857,7 @@ Window_SavefileList.prototype.drawContents = function(info, rect, valid) {
 
 Window_SavefileList.prototype.drawGameTitle = function(info, x, y, width) {
     if (info.title) {
-        this.drawText(info.saveString, x, y, width);
+        this.drawText(info.title, x, y, width);
     }
 };
 
