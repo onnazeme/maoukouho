@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"","characterIndex":0,"characterName":"zz_L1_k_b","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":0,"characterName":"rival_1","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"RIVAL","traits":[],"initialLevel":1,"maxLevel":99,"name":"ルイヴァ","nickname":"","note":"","profile":"もう一人の魔王候補。ライバル。純血の魔族。\n魔力が高くて男性にもモテモテのチャラ女。"},
 {"id":3,"battlerName":"","characterIndex":0,"characterName":"03_C","classId":3,"equips":[18,6,0,0,0],"faceIndex":0,"faceName":"03_0","traits":[],"initialLevel":1,"maxLevel":99,"name":"マイト","nickname":"","note":"","profile":"剣術がスキで、騎士団に入るのが目標の、\n純朴な元気少男。憧れている男騎士がいる。"},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"04_C","classId":4,"equips":[3,6,0,0,0],"faceIndex":0,"faceName":"04_0","traits":[],"initialLevel":1,"maxLevel":99,"name":"キース","nickname":"","note":"","profile":"巷で噂の美男騎士。兵士達に憧れている騎士団のマドン。\n真面目な性格で、騎士団長を尊敬している。"},
