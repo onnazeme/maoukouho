@@ -34,15 +34,16 @@
 	Window_Info.prototype.constructor = Window_Info;
 	Window_Info.prototype.initialize = function() {
 		var x = 10;
+		var y = 10;
 		//一部のマップで位置を変える
-		if($gameMap.mapId() == 68){
+		if($gameMap.mapId() == 10 || $gameMap.mapId() == 22 || $gameMap.mapId() == 68 || $gameMap.mapId() == 77 || $gameMap.mapId() == 78 || $gameMap.mapId() == 82 || $gameMap.mapId() == 133){
+		//右上
 			var x = 625;
 		}
 		//情報窓表示スイッチがOFFなら画面外に表示
 		if(!$gameSwitches.value(6)){
 			var x = 850;
 		}
-		var y = 10;
 	    var width = 180;
 	    var height = 80;
 	    Window_Base.prototype.initialize.call(this, x, y, width, height);
