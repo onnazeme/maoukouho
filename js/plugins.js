@@ -9,9 +9,9 @@ var $plugins =
 {"name":"MessageAlignmentEC","status":true,"description":"ver1.03/メッセージのアライメントを変更する制御文字を追加します。","parameters":{"ExtendEC":"at,sp"}},
 {"name":"MoreEscapeCodes","status":true,"description":"Extends the number of escape codes in the Show Text command","parameters":{"Face ID Index":"f","Nickname/Handle":"h"}},
 {"name":"MPP_CharaGraphics","status":true,"description":"【ver.1.0】イベントの画像をキャラクターと同じにします。","parameters":{}},
-{"name":"Torigoya_InputNamePrompt","status":true,"description":"Input name with prompt","parameters":{"Max Length":"7","Message":"名前を入力してください","Maximum Message":"(%1 characters or less)"}},
-{"name":"MapNameExtend","status":true,"description":"MapNameWindowExtendPlugin","parameters":{"PositionX":"","PositionY":"100","MoveXInFade":"","MoveYInFace":"","AllDuration":"","FadeInSpeed":"","Width":"","ShowWindow":"OFF","BackgroundImage":"","ShowRealName":"OFF","UseControlCharacter":"OFF"}},
-{"name":"Torigoya_InputNicknamePrompt","status":true,"description":"Input name with prompt","parameters":{"Max Length":"9","Message":"呼び方を入力してください。","Maximum Message":"(%1 characters or less)"}},
+{"name":"Torigoya_InputNamePrompt","status":true,"description":"名前入力ダイアログ機能を追加します","parameters":{"Max Length":"7","Message":"名前を入力してください","Maximum Message":"(%1 characters or less)"}},
+{"name":"MapNameExtend","status":true,"description":"マップ名表示拡張プラグイン","parameters":{"X座標":"100","Y座標":"120","フェード中移動X":"","フェード中移動Y":"","総フレーム数":"","フェードイン速度":"","横幅":"","ウィンドウ表示":"OFF","背景画像":"","実名表示":"OFF","制御文字使用":"OFF"}},
+{"name":"Torigoya_InputNicknamePrompt","status":true,"description":"名前入力ダイアログ機能を追加します","parameters":{"Max Length":"9","Message":"呼び方を入力してください。","Maximum Message":"(%1 characters or less)"}},
 {"name":"FacePicture","status":false,"description":"FacePicturePlugin","parameters":{}},
 {"name":"PicturePriorityCustomize","status":true,"description":"PicturePriorityCustomizePlugin","parameters":{"UpperPictureId":"10","LowerPictureId":"0","LowerPictureZ":"2"}},
 {"name":"InfoWindow","status":true,"description":"情報表示ウィンドウをメニュー画面に追加するプラグイン","parameters":{}},
@@ -21,5 +21,6 @@ var $plugins =
 {"name":"EventDebugger","status":false,"description":"EventDebuggerPlugin","parameters":{"StepStart":"F7","StepIn":"F11","StepOver":"F10","Continue":"F6","ToggleWindow":"F12","WatchVariable":"F1","MaxWatchNum":"3","EventTest":"true","SuppressFunc":"false","OkHandler":"F11","CancelHandler":"F6","ScriptDebug":"1","DisableDebugCtrlKey":"true"}},
 {"name":"MPP_SimpleTouch2","status":false,"description":"【ver.2.1】マウスやタッチ操作を変更します。","parameters":{"Cancel Enabled?":"true","Long Press Time":"15","Double Tap Default":"0","Double Tap Name":"ダブルタップ間隔","Double Tap Status":"無効,15,30,45,60","Cursor SE Always?":"false"}},
 {"name":"ScreenResolution","status":true,"description":"Change your game's screen resolution to your liking!","parameters":{"Screen Width":"816","Screen Height":"624"}},
-{"name":"UTA_MessageSkip","status":true,"description":"Skip message on pressing a particular key.","parameters":{"Skip Key":"control","Show Trace":"false"}}
+{"name":"UTA_MessageSkip","status":true,"description":"特定キーを押す事でメッセージをスキップできるようにします。","parameters":{"Skip Key":"control","Show Trace":"false"}},
+{"name":"SaveLavel","status":true,"description":"","parameters":{}}
 ];
